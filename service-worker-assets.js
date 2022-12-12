@@ -33,11 +33,11 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-U3x0fK7UHPtSUTa8vDNwWajppU7nx7LhqRi\/SdP+FWY=",
+      "hash": "sha256-0rD9HBpuLmRJtP+9Eb+\/4wMhxWa5Z+RUV\/wvu+W1BAc=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-RWv0+TlbEpj2rx9Vjd8TOF1bTQOHWZxZLGKbpdtvbj0=",
+      "hash": "sha256-130ZHZQnYgqqQFDSzsOgrfYDRM1kMlVShYI+tmHVEzY=",
       "url": "_framework\/AudioRecorder.dll"
     },
     {
@@ -213,7 +213,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-ijlB8xBFSls4rvKSl7KlfM3IGMyUzA5NVgkzMvjgUKE=",
+      "hash": "sha256-30+f7jGhkRicQNyBz0AT8JGMmOpbjyOI9kqPWzZIzNI=",
       "url": "index.html"
     },
     {
@@ -225,5 +225,5 @@
       "url": "scripts\/AudioRecorder.js"
     }
   ],
-  "version": "PCIF3cER"
+  "version": "6+21LMB1"
 };
